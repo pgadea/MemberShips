@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace MemberShips
+namespace Memberships
 {
     public class BundleConfig
     {

@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
-namespace MemberShips.Entities
+namespace Memberships.Entities
 {
     [Table("ProductType")]
     public class ProductType

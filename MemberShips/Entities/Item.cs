@@ -7,7 +7,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace MemberShips.Entities
+namespace Memberships.Entities
 {
     [Table("Item")]
     public class Item

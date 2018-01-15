@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using MemberShips.Entities;
-using MemberShips.Models;
+using Memberships.Entities;
+using Memberships.Models;
 
-namespace MemberShips.Areas.Admin.Controllers
+namespace Memberships.Areas.Admin.Controllers
 {
     public class SectionController : Controller
     {

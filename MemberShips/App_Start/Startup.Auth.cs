@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using MemberShips.Models;
+using Memberships.Models;
 
-namespace MemberShips
+namespace Memberships
 {
     public partial class Startup
     {
