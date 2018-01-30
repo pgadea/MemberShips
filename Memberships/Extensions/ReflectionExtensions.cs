@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace MemberShips.Extensions
+namespace Memberships.Extensions
 {
     public static class ReflectionExtensions
     {

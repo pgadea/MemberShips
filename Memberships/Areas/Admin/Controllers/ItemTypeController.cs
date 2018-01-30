@@ -10,7 +10,7 @@ using System.Web.Mvc;
 using Memberships.Entities;
 using Memberships.Models;
 
-namespace MemberShips.Areas.Admin.Controllers
+namespace Memberships.Areas.Admin.Controllers
 {
     public class ItemTypeController : Controller
     {
